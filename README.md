@@ -17,10 +17,9 @@ Ce projet Power BI a été réalisé dans le cadre de [formation / auto-apprenti
 
 ## 📌 Fonctionnalités du rapport
 
-- [Ex : Tableau de bord interactif avec filtres dynamiques]
-- [Ex : Courbe d’évolution temporelle avec comparaison annuelle]
-- [Ex : Analyse par segment / produit / catégorie]
-- [Ex : KPIs clairs et visuellement mis en avant]
+- Tableau de bord interactif avec filtres dynamiques
+-  Courbe d’évolution temporelle avec comparaison annuelle
+-  KPIs clairs et visuellement mis en avant
 
 
 ## 🚀 Pour l’ouvrir
